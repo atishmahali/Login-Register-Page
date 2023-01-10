@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72586602172",
+    "project_id": "chattapp-dc520",
+    "storage_bucket": "chattapp-dc520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72586602172:android:c95de66310b0cc586e92b9",
+        "android_client_info": {
+          "package_name": "com.example.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72586602172-gkqcm61jq4gse5jdob5p5sde6j5e1h7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatty",
+            "certificate_hash": "75594da9b06d6cfa94e7ec795d0402bd75c45391"
+          }
+        },
+        {
+          "client_id": "72586602172-9hclcdkkje40btv8gaeao1heasn6nhmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL51wQRTA8mS7kjXjA0N-rNnEVyxqcqDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72586602172-9hclcdkkje40btv8gaeao1heasn6nhmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
